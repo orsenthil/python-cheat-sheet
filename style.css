@@ -2,7 +2,6 @@
 body {
     background: #1e1e1e;
     color: #f8f8f2;
-    font-family: 'Handjet', monospace;
 }
 
 /* Notebook-style grid lines */
@@ -36,7 +35,7 @@ pre {
     border-left: 4px solid #38bdf8; /* Blue border */
     padding: 12px;
     border-radius: 8px;
-    font-size: 0.9rem;
+    font-size: 0.95rem;
     overflow-x: auto;
     white-space: pre-wrap;
 }

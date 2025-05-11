@@ -38,16 +38,19 @@ Visit the live cheat sheet at: [https://vivitoa.github.io/python-cheat-sheet/](h
 ## 📥 Local Development
 
 1. Clone the repository:
+
    ```bash
-   git clone https://github.com/vivitoa/python-cheat-sheet.git
+   git clone https://github.com/orsenthil/python-cheat-sheet.git
    ```
 
 2. Navigate to the project directory:
+
    ```bash
    cd python-cheat-sheet
    ```
 
 3. Open `index.html` in your browser or use a local server:
+
    ```bash
    python -m http.server 8000
    ```
@@ -72,4 +75,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## ⭐ Show your support
 
-Give a ⭐️ if this project helped you! 
+Give a ⭐️ if this project helped you!
